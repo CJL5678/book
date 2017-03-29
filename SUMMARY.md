@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [前端命令集合](command.md)
-* [初始化过程](process/init.md)
+* [初始化过程](process/load.md)
 * [选中单元格](process/select.md)
 
 
